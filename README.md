@@ -47,3 +47,11 @@ Grabs `PCB-sl13nw6fpl4rim5mrg3x-1.PcbLib` (a CircuitMaker Library) as an OLE doc
 
 ### Description
 This doesn't really work, was intended to read binary data in the clipboard.
+
+## Fork 
+
+
+### Description
+svg-parse.py updated to prompt user to select file(s) and output folder
+
+built executable version of svg-parse.py 
